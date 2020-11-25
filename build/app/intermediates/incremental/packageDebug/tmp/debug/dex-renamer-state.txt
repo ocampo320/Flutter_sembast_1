@@ -1,0 +1,4 @@
+#Wed Nov 25 15:29:13 CET 2020
+base.0=E\:\\Flutter projects 2020\\flutter_sembast\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
